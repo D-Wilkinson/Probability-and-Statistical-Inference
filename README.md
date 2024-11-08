@@ -1,6 +1,6 @@
 # Probability-and-Statistical-Inference
 
-In this project I provide a detailed statistical analysis of plasma ferritin concentration in Australian athletes from a given dataset. It includes regression models and Bayesian inference, with the key objectives being to identify correlations between plasma ferritin and other health indicators like BMI, hemoglobin, and lean body mass.  
+In this project I provide a detailed statistical analysis of plasma ferritin concentration in Australian athletes from a given dataset using R Studio. It includes regression models and Bayesian inference, with the key objectives being to identify correlations between plasma ferritin and other health indicators like BMI, hemoglobin, and lean body mass.  
 
 ## Links
 - [Project Report](https://github.com/D-Wilkinson/Probability-and-Statistical-Inference/blob/71e2205fc90824593186ec28a12b0db0d733fb4d/PSI%20Report.pdf)
