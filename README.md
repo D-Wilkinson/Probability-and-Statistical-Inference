@@ -5,7 +5,7 @@ In this project I provide a detailed statistical analysis of plasma ferritin con
 ## Links
 - [Project Report](https://github.com/D-Wilkinson/Probability-and-Statistical-Inference/blob/71e2205fc90824593186ec28a12b0db0d733fb4d/PSI%20Report.pdf)
 - [R Code](https://github.com/D-Wilkinson/Probability-and-Statistical-Inference/blob/00a17e91292ee01780633238202b7734c95e1e87/CourseWork%20Script.R)
-- [Dataset]()
+- [Dataset](https://github.com/D-Wilkinson/Probability-and-Statistical-Inference/blob/79df366eac0f31a1e3ee041cc58bc3b8127ad35c/Sports%20Data%20CW%202019.csv)
 
 ## Key Insights
 - Data Analysis and Model Fitting: The report explores correlations through regression analysis, finding significant positive correlations between ferritin and BMI/hemoglobin levels. Outliers are identified and addressed to enhance model reliability.
